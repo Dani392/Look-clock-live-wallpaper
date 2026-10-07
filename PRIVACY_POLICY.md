@@ -2,7 +2,7 @@
 
 **Last updated:** October 2026
 
-Daniel Salcedo Cias ("Developer", "I", "me") built the Look Clock app as a Free/Freemium application. This SERVICE is provided by me at no cost and is intended for use as is.
+Daniel Salcedo Cias built the Look Clock app as a Free/Freemium application. This SERVICE is provided by me at no cost and is intended for use as is.
 
 ## 1. Data Collection and Usage
 Look Clock is an offline-first application designed to respect your privacy. **The app does not collect, store, transmit, or share any personal data.** 
