@@ -13,6 +13,7 @@ An advanced Live Wallpaper creator for Android built with Flutter. It allows use
 * **🖌️ Precision Eraser:** Interactive free-canvas editing tool. Allows erasing specific parts of the clock with stroke interpolation support and a complete Undo/Redo system.
 * **🌊 Environmental Effects Engine:** Integration of a water layer with mathematical horizontal cuts, waterline opacity, and reflection blending.
 * **🔗 Export Ecosystem:** Save complex configurations locally or share them externally. Generates compressed JSON schemes via `zlib` that can be imported via files or *Deep Links* (`lookclock://import`).
+* **🎁 Out-of-the-box Experience:** Includes an interactive visual onboarding and a Starter Pack with 9 pre-designed Factory Looks dynamically injected on the first run.
 
 ## 🛠️ Tech Stack & Development Flow
 
