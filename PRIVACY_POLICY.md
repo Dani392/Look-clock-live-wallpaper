@@ -22,4 +22,4 @@ Look Clock does not integrate any third-party tracking SDKs, analytics, or adver
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## 5. Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at: [TU_EMAIL_DE_CONTACTO@GMAIL.COM]
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at: [dsalcedocias@gmail.com]
